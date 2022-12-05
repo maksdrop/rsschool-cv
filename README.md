@@ -1,1 +1,3 @@
-# [CV](https://maksdrop.github.io/rsschool-cv/cv)
+# rsschool-cv
+
+[CV](https://maksdrop.github.io/rsschool-cv/cv)
